@@ -8,5 +8,7 @@ Here is a deeply insightful note
 # Table of Contents
 
 [Recovery of the Arcane Projector]()
+
 [Catalogue of Known Spells]()
+
 [Related Works]()
