@@ -1,5 +1,12 @@
-# Recovery of Projector Knowledge
+Authors: The Professor, Thomas, Some Guy, Some Other Guy
 
-Author: Bob Loblaw
+# Authors' Note
 
-[Test Link](test-dir/test_page.md)
+Here is a deeply insightful note
+
+
+# Table of Contents
+
+[Recovery of the Arcane Projector]()
+[Catalogue of Known Spells]()
+[Related Works]()
