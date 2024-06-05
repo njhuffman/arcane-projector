@@ -9,6 +9,6 @@ Here is a deeply insightful note
 
 [Recovery of the Arcane Projector]()
 
-[Catalogue of Known Spells]()
+[Catalogue of Known Spells](spell_catalog.md)
 
 [Related Works]()
