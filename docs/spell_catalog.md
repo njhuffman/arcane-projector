@@ -9,6 +9,10 @@ Composition: unknown
 
 Composes: unknown
 
+Projection 1        | Projection 2
+:------------------:|:------------------:
+![](assets/1-A.jpg) | ![](assets/1-B.jpg)
+
 ## Aid
 
 Composition: unknown
